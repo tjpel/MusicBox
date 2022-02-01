@@ -223,7 +223,7 @@ void setup(void) {//begin setup
   display.println(F(""));
   display.display();
   delay(500);
-                            //idk why these need to be here, seems to break without them. fun.
+  
   display.println(F(""));
   display.display();
   delay(500);
